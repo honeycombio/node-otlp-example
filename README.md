@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Honeycomb OpenTelemetry Node.js Express Application Example
 
 The following is an example a `Nodejs` application using `Express` that has a "Hello World" endpoint that sends tracing data to Honeycomb.
@@ -71,7 +70,4 @@ Using the message attribute allows you to see the message that is sent at the en
 ### 4. Exploring Your Data
 
 You’ve now sent data from this application. Continue the quickstart by `exploring your data` section of the quickstart guide.
-=======
-# node-otlp-example
-Node Js Express Application Example using Otel
->>>>>>> 01e4f89b20b08a4dff65da886b710910f4cb911c
+
